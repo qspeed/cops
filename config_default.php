@@ -17,7 +17,7 @@
      * You can enable multiple database with this notation instead of a simple string :
      * $config['calibre_directory'] = array ("My database name" => "/home/directory/calibre1/", "My other database name" => "/home/directory/calibre2/");
      */
-    $config['calibre_directory'] = 'https://1drv.ms/f/s!ApQxO7-0YnGDhhb2kkUvS95Y8puj/';
+    $config['calibre_directory'] = 'https://1drv.ms/u/s!ApQxO7-0YnGDhjm6hmkEw4-eiLhd/';
 
     /*
      * SPECIFIC TO NGINX
